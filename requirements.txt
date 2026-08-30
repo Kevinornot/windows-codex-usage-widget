@@ -1,0 +1,2 @@
+# No third-party runtime dependencies.
+# Python 3.11+ includes tkinter and tomllib in standard Windows installers.

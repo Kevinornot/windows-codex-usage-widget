@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows Codex Usage Widget"
+  short_description: "Install and tailor a private Windows Codex usage widget"
+  default_prompt: "Use $windows-codex-usage-widget to install or customize a privacy-safe Windows Codex usage widget."
